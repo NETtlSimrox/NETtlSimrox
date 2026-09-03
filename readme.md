@@ -36,14 +36,6 @@ $ whoami
 
 </div>
 
-<br>
-
-
-`Python` `HTML` `CSS`
-
-</td>
-</tr>
-</table>
 
 <br>
 
