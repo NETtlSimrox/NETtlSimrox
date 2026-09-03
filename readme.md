@@ -38,22 +38,6 @@ $ whoami
 
 <br>
 
-## `~/projects --pinned`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 School Robot Project
-Built and programmed a robot as part of a school project — combining hardware and code to bring a physical system to life.
-
-`Robotics` `C` `Hardware`
-
-</td>
-<td width="50%">
-
-### 💡 [Your Next Project]
-[Add a short pitch here for your next repo — what it does and why you built it]
 
 `Python` `HTML` `CSS`
 
